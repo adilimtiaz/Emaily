@@ -1,4 +1,8 @@
 node_modules/*
 dev.js
-.idea/
+.idea/misc.xml
+.idea/workspace.xml
 package-lock.json
+build/
+.env.production
+
